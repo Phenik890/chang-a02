@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«‹ìø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™†ÌÀ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÉ¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹îª©ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶ƒ¼ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§ò³õşÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ªøÍÁ
+l
+java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(Ëñªãÿÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(Ëñªãÿÿÿÿÿ
+f
+java:S3457'"Q%n should be used in place of \n to produce the platform-specific line separator.(Ó™úo
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(Ó™úo
+0
+java:S1220""Move this file to a named package.

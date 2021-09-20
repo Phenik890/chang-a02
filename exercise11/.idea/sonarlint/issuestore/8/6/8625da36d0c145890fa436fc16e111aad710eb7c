@@ -1,0 +1,13 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "result".(¤Ó¥†ùÿÿÿÿ8°ğ„À/
+M
+java:S1481"+Remove this unused "result" local variable.(¤Ó¥†ùÿÿÿÿ8‘°ğ„À/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øëØö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÇ¿œ
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(×ğ¸Ğÿÿÿÿÿ8¯ô„À/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×ğ¸Ğÿÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¿èÛŞúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.

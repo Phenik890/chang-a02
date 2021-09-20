@@ -1,0 +1,24 @@
+
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(è“ßá8€Œ‚À/
+B
+java:S3457"%String contains no format specifiers.(è“ßá8€Œ‚À/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(è“ßá
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(µöŸ¾úÿÿÿÿ8å‹‚À/
+G
+java:S3457"%String contains no format specifiers.(µöŸ¾úÿÿÿÿ8å‹‚À/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µöŸ¾úÿÿÿÿ
+G
+java:S3457"%String contains no format specifiers.(é·Õÿÿÿÿÿ8 £Œ‚À/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(é·Õÿÿÿÿÿ
+G
+java:S3457!"%String contains no format specifiers.(ÿÚü†ıÿÿÿÿ8…ß‚À/
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÿÚü†ıÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ÎÃ¿úÿÿÿÿ
+G
+java:S3457'"%String contains no format specifiers.(ãÿı¸ÿÿÿÿÿ8ôà‘‚À/
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ãÿı¸ÿÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ä·ŒŞ
+0
+java:S1220""Move this file to a named package.

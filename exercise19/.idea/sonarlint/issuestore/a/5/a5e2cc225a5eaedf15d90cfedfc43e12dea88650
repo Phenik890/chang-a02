@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üš†Ôúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö°‰ã
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÿâ­°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿâ­°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½Ð²Ìúÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(–¯„„
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(œº¾žûÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’î´D
+0
+java:S1220""Move this file to a named package.

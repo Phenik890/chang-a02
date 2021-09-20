@@ -15,19 +15,19 @@ public class Solution17 {
         double BAC;
 
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter a 1 if you are male or a 2 if you are female: ");
+        System.out.print("Enter a 1 if you are male or a 2 if you are female: ");       //Print ask user for input for gender
         int g = input.nextInt();
 
-        System.out.print("How many ounces of alcohol did you have? ");
+        System.out.print("How many ounces of alcohol did you have? ");      //Print ask user for input for how much alcohol
         int A = input.nextInt();
 
-        System.out.print("What is your weight, in pounds? ");
+        System.out.print("What is your weight, in pounds? ");       //Print ask user for input for weight
         int W = input.nextInt();
 
-        System.out.print("How many hours has it been since yours last drink? ");
+        System.out.print("How many hours has it been since yours last drink? ");        ////Print ask user for input for how long its been since last drink
         int H = input.nextInt();
 
-        if (g == 1) {
+        if (g == 1) {           //Calculates ratio for BAC based on gender using if/else
             r = (float) 0.73;
         }
 
@@ -35,13 +35,13 @@ public class Solution17 {
             r = (float) 0.66;
         }
 
-        BAC = (A * 5.14 / W * r) - (0.015 * H);
+        BAC = (A * 5.14 / W * r) - (0.015 * H);     //Calculation
 
-        input.close();
+        input.close();      //Closes Scanner
 
-        System.out.printf("Your BAC is $%.6f\n", BAC);
+        System.out.printf("Your BAC is $%.6f\n", BAC);      //Prints BAC
 
-        if (BAC < 0.08) {
+        if (BAC < 0.08) {       //If/else if it is legal for you to drive based on BAC
             System.out.println("It is legal for you to drive.");
         }
 

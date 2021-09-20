@@ -12,10 +12,11 @@ public class Solution21 {
 
     public static void exercise21() {
 
-        Scanner input = new Scanner(System.in);
-        System.out.print("Please enter the number of the month: ");
+        Scanner input = new Scanner(System.in);     //Creates Scanner
+        System.out.print("Please enter the number of the month: ");     //Print asks user for input for number of month
         int numberOfMonth = input.nextInt();
-        switch (numberOfMonth) {
+
+        switch (numberOfMonth) {        //Switch case statement to read number of the month from input and tell the user the month using prints
             case 1:  System.out.println("The name of the month is January"); break;
             case 2:  System.out.println("The name of the month is February"); break;
             case 3:  System.out.println("The name of the month is March"); break;

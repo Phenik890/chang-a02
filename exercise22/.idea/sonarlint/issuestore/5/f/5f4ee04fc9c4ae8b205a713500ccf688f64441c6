@@ -1,13 +1,13 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ëÚîÓşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ëÚîÓşÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ëÚîÓşÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(à¾²ä
-S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÂÂûÿÿÿÿ
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(•ÓÍ²ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥¥øÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(´Øß
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷¬å”ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à¾²ä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÂÂûÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(•ÓÍ²ùÿÿÿÿ
 m
-java:S1192"WDefine a constant instead of duplicating this literal "The largest number is " 3 times.(à¾²ä
+java:S1192"WDefine a constant instead of duplicating this literal "The largest number is " 3 times.(à¾²ä
 t
-java:S1192"YDefine a constant instead of duplicating this literal "Enter the first number: " 3 times.(ëÚîÓşÿÿÿÿ
+java:S1192"YDefine a constant instead of duplicating this literal "Enter the first number: " 3 times.(¥¥øÿÿÿÿÿ
 0
 java:S1220""Move this file to a named package.

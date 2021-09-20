@@ -11,17 +11,19 @@ public class Solution22 {
     }
 
     public static void exercise22() {
-        Scanner input = new Scanner(System.in);
-        System.out.print("Enter the first number: ");
+        Scanner input = new Scanner(System.in);     //creates scanner
+        System.out.print("Enter the first number: ");       //Print asks user for input for number 1
         int number1 = input.nextInt();
 
-        System.out.print("Enter the first number: ");
+        System.out.print("Enter the first number: ");       //Print asks user for input for number 2
         int number2 = input.nextInt();
 
-        System.out.print("Enter the first number: ");
+        System.out.print("Enter the first number: ");       //print asks user for input for number 3
         int number3 = input.nextInt();
 
-        if (number1 >= number2 && number1 >= number3) {
+        input.close();      //Closes Scanner
+
+        if (number1 >= number2 && number1 >= number3) {     //If/elseif/else statement determines the largest number using >=, <= and &&
             System.out.println("The largest number is "+ number1 +".");
         }
 
